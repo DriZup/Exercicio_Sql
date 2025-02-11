@@ -1,0 +1,4 @@
+package adriana.nogueira.sql.repository;
+
+public interface AlunoRepository {
+}
